@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @icecreambash
+- I just write code
