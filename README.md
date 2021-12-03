@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @icecreambash
-- I just write code
+- Open source projects are located here, if you are interested in proprietary solutions, look for them here => https://store.jokyprod.com
