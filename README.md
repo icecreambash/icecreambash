@@ -37,7 +37,7 @@ Nginx, OpenResty (Lua scripting), Docker, CI/CD
 ## 📫 Contact
 
 - Email: `kostylev.artjom@yandex.by`
-- Telegram: [@your_handle](https://lwjal.t.me)
+- Telegram: [@lwjal](https://lwjal.t.me)
 
 ---
 
